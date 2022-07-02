@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="sn.alim.depensemanager">
+    package="sn.alim.apps">
    <application
-        android:label="depensemanager"
+        android:label="apps"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,4 @@
-# depensemanager
+# apps
 
 A new Flutter project.
 

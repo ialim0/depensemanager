@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = depensemanager
+PRODUCT_NAME = apps
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = sn.alim.depensemanager
+PRODUCT_BUNDLE_IDENTIFIER = sn.alim.apps
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2022 sn.alim. All rights reserved.
